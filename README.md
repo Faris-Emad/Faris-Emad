@@ -12,21 +12,31 @@
 
 <div align="center">
 
-### 🔥 Performance
-<img src="https://github-readme-stats.vercel.app/api?username=Faris-Emad&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" height="180" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=Faris-Emad&theme=github_dark&hide_border=false" height="180" />
+---
 
-<br><br>
+### 🔥 Overall Performance
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Faris-Emad&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Faris-Emad&theme=github_dark&hide_border=true" height="165" />
+</p>
 
-### 🔧 Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faris-Emad&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180" />
+---
 
-<br><br>
+### 🧩 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faris-Emad&theme=github_dark&hide_border=true&layout=compact" height="165" />
+</p>
 
-### 👀 Profile Visits
-<img src="https://visitcount.itsvg.in/api?id=Faris-Emad&icon=0&color=0" />
+---
 
+### 👁️ Profile Visits
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Faris-Emad&icon=0&color=6" />
+</p>
+
+---
 </div>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
