@@ -29,14 +29,4 @@
 
 ---
 
-### 👁️ Profile Visits
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Faris-Emad&icon=0&color=6" />
-</p>
-
----
-</div>
-
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
