@@ -1,32 +1,89 @@
-# 💫 About Me:
-## 👋 Hi, I'm Fares<br><br>I'm a Computer Science student specializing in Software Engineering, passionate about building clean, efficient, and practical software solutions.  <br>I enjoy exploring different technologies, especially C++, Linux, and automation tools that help streamline everyday tasks.<br><br>Currently, I'm improving my skills through hands-on projects, online courses, and consistent practice to become a well-rounded software engineer.<br><br>### 🌱 What I'm Learning<br>- C++ fundamentals & OOP  <br>- Software Engineering principles  <br>- Linux (Arch Linux + Hyprland)  <br>- Full-Stack path (IBM)<br><br>### 🔧 Technologies & Tools<br>- C++, Python  <br>- Git & GitHub  <br>- Linux  <br>- Neovim (LazyVim)<br><br>### 🎯 Goals<br>- Build real-world projects<br>- Strengthen problem-solving skills  <br>- Develop a stable income from software development  <br><br>### 📫 Contact<br>Feel free to reach out anytime — I'm always open to learning and collaboration.<br>
+# 👋 Welcome to My GitHub Profile!
 
+Hello! I'm **Faris Emad (ICEQ)** — a **Software Engineering Student** driven by curiosity, problem-solving, and building clean, efficient, and impactful software.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Faris Imad) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__faris_imad__f) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/faris-imad-839968351) 
+---
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+## 🎓 About Me
+- 🎯 **Focus Areas**: Software Engineering • Web Development • Linux • Automation  
+- 🌍 **Location**: Jordan  
+- 🌐 **Portfolio**: [faris-emad.github.io](https://faris-emad.github.io/)  
+- 📧 **Email**: farisemad12@outlook.com  
+- 📅 **GitHub Member Since**: October 29, 2024  
 
-## 📊 GitHub Stats
+---
+
+## 🚀 Skills & Technologies
+
+### **Languages**
+- JavaScript • TypeScript  
+- Python  
+- Java  
+- C++  
+- Bash  
+
+### **Web Development**
+- HTML • CSS • Responsive Design  
+- React  
+- Node.js • Express  
+- REST APIs  
+
+### **Tools & Platforms**
+- Git & GitHub  
+- VS Code / Neovim  
+- Docker  
+- Linux (Arch + Hyprland)  
+
+---
+
+## 📚 Featured Projects
+
+### **1. Project Name**
+- 📝 *Short description of what the project does*  
+- 🔧 **Tech**: Tech stack here  
+- 🔗 **Repo**: [Link]()
+
+### **2. Project Name**
+- 📝 Description  
+- 🔧 Tech stack  
+- 🔗 Repo: [Link]()
+
+### **3. Project Name**
+- 📝 Description  
+- 🔧 Tech stack  
+- 🔗 Repo: [Link]()
+
+---
+
+## 📊 GitHub Statistics  
 
 <div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Faris-Emad&show_icons=true&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faris-Emad&layout=compact&theme=radical&hide_border=true" />
 
-### 🔥 Overall Performance
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faris-Emad&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Faris-Emad&theme=github_dark&hide_border=true" height="165" />
-</p>
+</div>
 
 ---
 
-### 🧩 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faris-Emad&theme=github_dark&hide_border=true&layout=compact" height="165" />
-</p>
+## 🎯 Current Learning Goals
+- [ ] Master full-stack development  
+- [ ] Build more production-level projects  
+- [ ] Contribute to open-source  
+- [ ] Improve algorithmic problem-solving  
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💼 Let's Connect!
+If you'd like to collaborate, ask something, or talk tech — I'm always open.
+
+- 📧 **Email**: farisemad12@outlook.com  
+- 🌐 **Portfolio**: https://faris-emad.github.io/  
+
+---
+
+<div align="center">
+  
+⭐ **If you find my work helpful, feel free to leave a star!** ⭐
+
+</div>
