@@ -1,102 +1,40 @@
-<!-- HEADER -->
-<h1 align="center">👋 Welcome to My GitHub Profile!</h1>
-<h3 align="center">I'm Faris Emad (ICEQ) — Software Engineering Student & Tech Enthusiast</h3>
-
----
-
-## 🎓 About Me
-- 💻 **Software Engineering Student**  
-- 🎯 Focus: Web Development • Linux • Automation • Problem Solving  
-- 🌍 **Jordan**  
-- 🌐 Portfolio: **https://faris-emad.github.io/**  
-- 📧 Email: **farisemad12@outlook.com**  
-- 🗓️ Joined GitHub: **October 29, 2024**
-
----
-
-## 🚀 Skills & Technologies
-
 <div align="center">
-
-### 🔤 Languages
-<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,typescript,bash" height="45" />
-
-### 🌐 Web Development
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" height="45" />
-
-### 🛠️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,neovim,docker,linux" height="45" />
-
+  <h1>Hi, I'm Fares 👋</h1>
+  <h3>Software Engineering Student @ AUT | C++ & Linux Enthusiast</h3>
 </div>
 
 ---
 
-## 📚 Featured Projects
+## 👨‍💻 Quick Intro
+- 🎓 3rd-year Software Engineering student in Aqaba, Jordan.
+- ⚙️ Passionate about low-level programming, system architecture, and Linux environments.
+- 🏋️ Building discipline through daily code, gym routines, and running.
 
-### **1. Project Name**
-- 📝 *Short description about the project*
-- 🔧 **Tech**: Add stack  
-- 🔗 Repo: [Link]()
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,js,sql,postgres,linux,arch,mint,bash,git,github,vscode,obsidian" />
+</p>
 
-### **2. Project Name**
-- 📝 Short description  
-- 🔧 Tech stack  
-- 🔗 Repo: [Link]()
+## 🚀 Core Projects
 
-### **3. Project Name**
-- 📝 Short description  
-- 🔧 Tech stack  
-- 🔗 Repo: [Link]()
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **Alamana Supplies System** | Architecture & DB design for a general supplies company. | SQL, System Design | [🔗 Repo]() |
+| **Esports Ecosystem** | Database management system for teams, players, and contracts. | PostgreSQL, DB Design | [🔗 Repo]() |
+| **State Manager (Undo/Redo)** | Custom string manager utilizing Stack data structures for history tracking. | C++, OOP, Stacks | [🔗 Repo]() |
 
----
-
-## 📊 GitHub Statistics
-
+## 📈 GitHub Stats
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Faris-Emad&show_icons=true&theme=radical&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faris-Emad&layout=compact&theme=radical&hide_border=true" />
-
-<br><br>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Faris-Emad&theme=radical&hide_border=true" height="170" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Faris-Emad&show_icons=true&theme=transparent&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faris-Emad&layout=compact&theme=transparent&hide_border=true" height="150"/>
 </div>
 
----
-
-## 🎯 Current Learning Goals
-- [ ] Master full-stack development  
-- [ ] Build production-level apps  
-- [ ] Improve algorithms & problem solving  
-- [ ] Contribute to open-source  
-
----
-
-## 🌐 Connect With Me
-
+## 📫 Let's Connect
 <div align="center">
-
-<a href="mailto:farisemad12@outlook.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-
-<a href="https://faris-emad.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Faris-Emad">
-  <img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-⭐ **If you like my work, consider giving a star!**  
-  
-Made with ❤️ by **Faris Emad**
-
+  <a href="mailto:farisemad12@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://faris-emad.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </div>
